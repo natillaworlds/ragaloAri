@@ -1,0 +1,29 @@
+*{
+	font-family: 'Silkscreen', cursive;
+	font-size: 34px;
+}
+
+body{
+
+	background-image: url("https://img.freepik.com/vector-gratis/concepto-letras-feliz-cumpleanos_52683-35770.jpg?w=2000");
+	background-size: cover;
+}
+
+h1{
+	text-align: CENTER;
+	color: coral;
+
+	text-shadow: 4px 4px rgba(0, 0, 0, 1.0);
+	font-size: 44px;
+}
+p{
+	padding: 2em 10em;
+	text-align: center;
+	background: rgba(128, 224, 255, 0.5);
+	color: coral;
+	text-shadow: 4px 4px rgba(0, 0, 0, 1.0);
+}
+iframe{
+	width: 100%;
+	height: 100vh;
+}
